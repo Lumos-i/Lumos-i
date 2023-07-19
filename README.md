@@ -51,6 +51,8 @@
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
 </td></tr>
+
+
 <!-- 
 <tr>
 <td>
@@ -130,14 +132,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=Lumos-i&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Lumos-i&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime/?username=Lumos-i&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Lumos-i&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=Lumos-i&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lumos-i&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
 </td></tr>
@@ -359,13 +361,13 @@ Wakatime Graph-->
 <!-- just img 图片 -->
 <img width="36%" src="https://cdn.jsdelivr.net/gh/Lumos-i/Lumos-i/assets/images/githubgif.gif" />
 
-<!-- first form 第一个表格 -->
+<!-- 
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/Lumos-i/Lumos-i/github-metrics/people.followers.svg" alt="people.followers" /></td>
   </tr>
 </table>
-
+first form 第一个表格 -->
 <!-- 
 <table>
   <tr>
