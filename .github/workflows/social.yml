@@ -2,8 +2,7 @@ name: Social Readme
 
 on:
   schedule:
-    #- cron: '0 16 * * *'
-    - cron: '0 0/30 * * * ?'
+    - cron: '0 16 * * *'
   workflow_dispatch:
 
 jobs:
