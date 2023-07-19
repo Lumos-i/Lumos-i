@@ -127,7 +127,7 @@
 
 <tr><td>
 
-<!-- wakatime 统计 -->
+<!-- 
 ### 📊 WakaTime
 
 <picture>
@@ -145,7 +145,7 @@
 </td></tr>
 
 <tr><td>
-
+wakatime 统计 -->
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
 
